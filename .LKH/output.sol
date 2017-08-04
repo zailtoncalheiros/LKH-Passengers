@@ -1,0 +1,18 @@
+NAME : instance.132600.tour
+COMMENT : Length = 132600
+COMMENT : Found by LKH [Keld Helsgaun] Fri Aug  4 09:19:16 2017
+TYPE : TOUR
+DIMENSION : 10
+TOUR_SECTION
+1
+3
+7
+5
+2
+9
+8
+6
+4
+10
+-1
+EOF
