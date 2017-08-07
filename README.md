@@ -6,8 +6,7 @@ This algorithm is a wrapper for Helsgaun Algorithm (See at [LKH - Helsgaun](http
 
 1. You need to install Gurobi in your machine, the used version was `6.5.2`.
 2. Go to the main application directory and compile the application: `make`
-3. Run the application: `./lksolver.sh`
-4. Ignore the debug output: `./lksolver.sh 2>/dev/null`
+3. Run the application: `./lksolver.sh` or `./lksolver.sh 2>/dev/null` (to ignore the debug output).
 
 ## Example
 
