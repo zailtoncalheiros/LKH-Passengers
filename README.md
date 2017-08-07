@@ -4,7 +4,7 @@ This algorithm is a wrapper for Helsgaun Algorithm (See at [LKH - Helsgaun](http
 
 ## Getting Started
 
-1. You need to install Gurobi in your machine, the used version was `6.5.2`.
+1. You need to install Gurobi in your machine, the used version was `6.5.2`, the Makefile suppose gurobi is installed at `/opt/`.
 2. Go to the main application directory and compile the application: `make`
 3. Run the application: `./lksolver.sh` or `./lksolver.sh 2>/dev/null` (to ignore the debug output).
 
